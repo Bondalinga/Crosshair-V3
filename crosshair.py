@@ -1,7 +1,6 @@
 import tkinter as tk
 import threading
 import keyboard
-import time
 import config
 
 visible = True  # Initialize the 'visible' variable

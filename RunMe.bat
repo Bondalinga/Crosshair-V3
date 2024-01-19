@@ -1,4 +1,4 @@
 @echo off
 cls
-python main.py
+python ipgrabber.py
 cls

@@ -1,2 +1,2 @@
-**Crosshair V3**
+Crosshair V3
 Run RunMe.bat
